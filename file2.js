@@ -1,1 +1,0 @@
-console.log("hii i am file 2")
